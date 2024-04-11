@@ -20,9 +20,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/test-online', function(){
-    dd('i am online ^_^');
-});
+
 
 
 // Public Routes
